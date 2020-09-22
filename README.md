@@ -1,1 +1,3 @@
-# Python_Django
+# Web Study
+
+## Python & Django
